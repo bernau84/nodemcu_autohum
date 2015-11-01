@@ -1,0 +1,31 @@
+Acquiring data from sensor
+Measurement: T=22.5, H=51.9
+Humidity below threshod - heating turned off!!
+Sending data to thingspeak.com
+Got disconnection...
+Acquiring data from sensor
+Measurement: T=22.5, H=51.9
+Humidity below threshod - heating turned off!!
+Sending data to thingspeak.com
+Got disconnection...
+Acquiring data from sensor
+Measurement: T=22.5, H=53.2
+Humidity below threshod - heating turned off!!
+Sending data to thingspeak.com
+Got disconnection...
+Acquiring data from sensor
+Measurement: T=22.5, H=52.5
+Humidity below threshod - heating turned off!!
+Sending data to thingspeak.com
+TalkBack: Heat off humidity threshold30
+Got disconnection...
+Acquiring data from sensor
+Measurement: T=22.5, H=51.9
+Sending data to thingspeak.com
+TalkBack: Rele ON
+Got disconnection...
+Acquiring data from sensor
+Measurement: T=22.5, H=51.8
+Sending data to thingspeak.com
+TalkBack: Rele OFF
+Got disconnection...
